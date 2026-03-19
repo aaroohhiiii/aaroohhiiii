@@ -1,6 +1,6 @@
 # Hi, I'm Aarohi Gattewar 👋
 
-### Frontend Engineer Intern @ Omnisage AI · B.Tech AI & Data Science @ IIIT Sricity
+###  B.Tech AI & Data Science @ IIIT Sricity
 
 ---
 
@@ -84,7 +84,7 @@ Multi-modal AI system using text, voice, and facial expression analysis for ment
 - Zero broken-build merges across 4 months — Git branching, PR reviews, CI/CD pipeline management
 
 **Web Developer · Google Developer Groups on Campus, IIIT Sricity** *(2024 – 2025)*
-- Built official Marvel event website used by 500+ attendees
+- Built official Marvel event website used by 100+ attendees
 - Ran Git & GitHub workshop for 80+ students
 
 ---
