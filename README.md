@@ -105,4 +105,4 @@ Multi-modal AI system using text, voice, and facial expression analysis for ment
 
 ---
 
-*"Zero broken-build merges. 99%+ uptime. Real users. That's the bar I hold myself to."*
+
